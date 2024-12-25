@@ -25,7 +25,7 @@ Ensure you have the following installed on your machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/joshreddy21/project_assignment.git
+git clone https://github.com/joshreddy21/codeant_assignment.git
 ```
 
 ### Step 2: Navigate to the Project Directory
